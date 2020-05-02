@@ -30,7 +30,7 @@ Changes which would also be applicable to the original 2048 are encouraged to su
 You can find the same information in the [contributing guide.](./CONTRIBUTING.md)
 
 ## License
-±64 is licensed under the [MIT license.](./LICENSE.txt)
+±13 is licensed under the [MIT license.](./LICENSE.txt)
 
 ## Donations
 I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs).  If you feel like donating, please consider the original 2048 project.
